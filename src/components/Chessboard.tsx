@@ -26,7 +26,12 @@ export default function Chessboard() {
 
     
     return (
+      
+      <div className='monitor'>
+      <div className='section_chess'> Chess Game</div>
       <div id="chessboard">{board}</div>
+      </div>
+      
     )
 }
 
