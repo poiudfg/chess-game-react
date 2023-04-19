@@ -1,4 +1,4 @@
-# Chess-game-reactJS
+# Chess game with reactJS
 
 ```
 npx create-react-app chess_game --template typescript
